@@ -1,0 +1,24 @@
+{
+  "input_rows": 2000,
+  "rows_after_deduplicating_record_id": 2000,
+  "duplicate_record_id_rows_removed": 0,
+  "rows_missing_record_id_after_deduplication": 0,
+  "rows_with_missing_or_nonpositive_price": 0,
+  "rows_with_invalid_date": 0,
+  "valid_rows_loaded": 2000,
+  "rows_excluded_from_fact_table": 0,
+  "missing_values_by_column_before_filtering": {
+    "price_record_id": 0,
+    "product_code": 134,
+    "product_name": 461,
+    "brand": 2000,
+    "category": 1866,
+    "price": 0,
+    "currency": 0,
+    "price_is_discounted": 0,
+    "store_name": 0,
+    "city": 0,
+    "country_code": 2000,
+    "date_recorded": 0
+  }
+}
